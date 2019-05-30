@@ -1,0 +1,204 @@
+    /* -------------------on all pages------------------------------ */
+    
+    #top_breadcrumb {
+        margin-top: 55px;
+        background-color: white;
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+    
+    #low_breadcrump {
+        margin-bottom: 60px;
+        background-color: white;
+    }
+    
+    .nav_bar ul {
+        padding: 0;
+        list-style: none;
+    }
+    
+    .nav_bar ul li {
+        float: left;
+        font-size: 16px;
+    }
+    
+    .navbar-brand {
+        font-size: 0.8em;
+    }
+    /* ---------------------------main page-------------------------------- */
+    
+    .carousel-item img {
+        height: 350px;
+        width: auto;
+    }
+    
+    .card-horizontal {
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+        display: flex;
+        flex: 1 1 auto;
+    }
+    
+    .img-square-wrapper img {
+        height: 130px;
+        width: 130px;
+    }
+    
+    .card-title h4 {
+        text-size-adjust: 0.7rem;
+    }
+    
+    #recent {
+        margin-top: 5px;
+        margin-bottom: 100px;
+    }
+    
+    #recent_h5 {
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+    /* ----------------------------------articles----------------------------- */
+    
+    #recent1 {
+        margin-top: 10px;
+    }
+    
+    #recent2 {
+        margin-top: 10px;
+    }
+    
+    #recent3 {
+        margin-top: 10px;
+    }
+    /* -----------------------------------articles1------------------------ */
+    
+    #articles1 {
+        margin-top: 10px;
+        margin-bottom: 80px;
+    }
+    /* -------------------------------articles2------------------------ */
+    
+    #articles2 {
+        margin-top: 10px;
+        margin-bottom: 80px;
+    }
+    /*--------------------------------articles3---------------------- */
+    
+    #articles2 {
+        margin-top: 10px;
+        margin-bottom: 80px;
+    }
+    /* ----------------------------about us-------------------------- */
+    
+    .container #nav-tab a:hover {
+        background-color: gray;
+    }
+    
+    #about-us-text {
+        display: flex;
+        flex: 1 1 auto;
+    }
+    
+    #contacts {
+        padding-top: 5%;
+        position: relative;
+        left: 10%;
+    }
+    
+    #about-us-pc1 {
+        height: 180px;
+        width: 180px;
+        margin: 10px 10px 10px 10px;
+    }
+    
+    #map {
+        margin-left: 10%;
+    }
+    
+    #map-adress {
+        margin-bottom: 80px;
+    }
+    /* ---------------------chat------------------- */
+    
+    #chat-frame {
+        position: relative;
+        width: auto;
+        height: 450px;
+        border: 2px solid gray;
+        margin-bottom: 80px;
+    }
+    
+    #nr1 {
+        width: auto;
+        margin-top: 0px;
+        border: 1px solid gray;
+    }
+    
+    #send-chat-message:hover {
+        background-color: rgb(151, 101, 101);
+    }
+    
+    #chat-message-input {
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+        width: 80%;
+    }
+    
+    #chat-username-input {
+        position: absolute;
+        bottom: 100px;
+        left: 10px;
+        width: 200px;
+    }
+    
+    #send-chat-message {
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+        width: 15%;
+    }
+    
+    .anyClass {
+        height: 300px;
+        overflow-y: auto;
+    }
+    /* -----------------register---------------- */
+    
+    .inputFields {
+        position: absolute;
+        top: 5%;
+        left: 5%;
+    }
+    
+    .inputFields div {
+        margin-bottom: 15px;
+    }
+    
+    .inputFields div #country-input {
+        width: 168px;
+        height: 35px;
+    }
+    
+    input[type="checkbox"] {
+        zoom: 2;
+    }
+    
+    div .inputFields div button {
+        width: 120px;
+    }
+    
+    div .inputFields div button:hover {
+        background-color: rgb(151, 101, 101);
+    }
+    
+    form {
+        padding-top: 100px;
+    }
+    
+    .inputFields h5 {
+        position: absolute;
+        top: 85px;
+        left: 7px;
+    }
